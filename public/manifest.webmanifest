@@ -1,0 +1,18 @@
+{
+  "name": "AI Research Copilot Demo",
+  "short_name": "Research Copilot",
+  "description": "AI industry report and Word template generation demo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
